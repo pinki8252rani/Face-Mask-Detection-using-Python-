@@ -1,1 +1,2 @@
 # Face-Mask-Detection-using-Python-
+Developed a robust machine learning model for real-time face mask detection using Python, leveraging computer vision techniques. The project involved building and training a convolutional neural network (CNN) to accurately identify whether individuals in images or video streams are wearing face masks. Integrated the model with OpenCV for live video processing, contributing to public safety by enabling effective monitoring of mask compliance.
